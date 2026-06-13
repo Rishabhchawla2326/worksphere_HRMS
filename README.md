@@ -1,11 +1,24 @@
 # worksphere_HRMS
-Full Stack Human Resource Management System
+A Full Stack Human Resource Management System built using React, Node.js, Express, and MongoDB.
 
-Tech Stack:
+## Features
 
- React
- Node.js
- Express
- MongoDB
- JWT
- Tailwind CSS
+- User Authentication
+- Role-Based Access Control
+- Employee Management
+- Leave Management
+- Attendance Tracking
+- Dashboard Analytics
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+## Project Status
+
+🚧 Under Development
